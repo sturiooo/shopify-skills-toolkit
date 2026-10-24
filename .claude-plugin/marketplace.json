@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "igor-shopify",
+  "description": "Marketplace zespołu: skille wiedzy Shopify z realnych wdrożeń.",
+  "owner": {
+    "name": "Igor Pieczyński"
+  },
+  "plugins": [
+    {
+      "name": "shopify-skills",
+      "source": "./",
+      "description": "Autorskie skille wiedzy Shopify z realnych wdrożeń (10 skilli, po polsku).",
+      "category": "development",
+      "tags": ["shopify", "liquid", "theme", "admin-api"]
+    }
+  ]
+}

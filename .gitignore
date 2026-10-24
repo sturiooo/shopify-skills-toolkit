@@ -1,0 +1,10 @@
+# Czarna lista anonimizacji trzymana jest POZA repo; to tylko zabezpieczenie.
+*blacklist*.txt
+*czarna-lista*
+.env
+*.secret
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.claude/settings.local.json

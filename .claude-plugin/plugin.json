@@ -1,0 +1,12 @@
+{
+  "name": "shopify-skills",
+  "displayName": "Shopify: wiedza z wdrożeń",
+  "version": "1.0.0",
+  "description": "Autorskie skille wiedzy Shopify z realnych wdrożeń: diagnostyka, audyt Liquid, koszyk, PDP, metapola, sekcje motywu, CLI i Admin API, B2B i dostawa, rynki i tłumaczenia, token Admin API.",
+  "author": {
+    "name": "Igor Pieczyński"
+  },
+  "homepage": "https://github.com/Sturiooo/shopify-skills-toolkit",
+  "repository": "https://github.com/Sturiooo/shopify-skills-toolkit",
+  "keywords": ["shopify", "liquid", "theme", "admin-api", "b2b", "markets", "polski"]
+}
